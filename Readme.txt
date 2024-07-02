@@ -27,5 +27,6 @@ The last 4 sounds (3-1,3-2,3-3,3-4) are actual test sounds.
 3-3, 
 3-4,
 
-You should use those sound, and adding the referential sound in the CHUCK decoder.
-NOTE THAT the web chuck doesn't support this. You will have to use the software version to add multiple sound tracks and play them at the same time.
+You should use those sound, and adding the referential sound (second.ck) in the CHUCK decoder.
+There is a helper file (test.ck) that can help with it.
+NOTE THAT the web chuck might not support this. I didn't use web chuck at the time.
